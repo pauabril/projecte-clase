@@ -1,3 +1,4 @@
+
 public class Main {
     public static void main(String[] args) {
         method1();
@@ -7,7 +8,7 @@ public class Main {
     }
 
     private static void method1() {
-
+        System.out.println("Como vamos?");
     }
 
     private static void method2() {
